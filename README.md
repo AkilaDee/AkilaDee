@@ -1,4 +1,4 @@
-### Hi there 👋 welcome! 
+### Hi there 👋 welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AkilaDee?label=Follow%20Me&style=social)](https://github.com/AkilaDess)
 
 <!--
 
@@ -41,29 +41,13 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AkilaDee)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.akiladesilva97@gmail.com)
 
-<!--
+<!-- 
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
 [![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/elmoallistair)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/2d7d54b5646fe8547a05a04b5bdbcafd)
-[![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68)
+[![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68) -->
 
 
-<br/>
-<a href="https://twitter.com/AkilaDee">
-  <img align="left" alt="Akila's twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/AkilaDee/">
-  <img align="left" alt="Akila's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
-
-![AkilaDee's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&include_all_commits=true&show_icons=true)
--->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact).
-
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=AkilaDee" />
 
 
