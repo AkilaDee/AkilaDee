@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact)
 
-<!-- ![Akila's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true) -->
-![Akila's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&layout=compact&include_all_commits=true&show_icons=true)
+![Akila's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&include_all_commits=true&show_icons=true)
+<!-- ![Akila's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&layout=compact&include_all_commits=true&show_icons=true&hide=issues) -->
 
 
