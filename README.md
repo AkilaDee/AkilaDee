@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/elmoallistair)
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/2d7d54b5646fe8547a05a04b5bdbcafd)
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68) -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true)
 
