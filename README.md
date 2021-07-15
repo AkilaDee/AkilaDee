@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact)
 
 <!-- ![Akila's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true) -->
-![Akila's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&include_all_commits=true&show_icons=true&layout=compact)
+![Akila's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&layout=compact&include_all_commits=true&show_icons=true)
 
 
