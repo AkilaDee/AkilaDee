@@ -1,4 +1,4 @@
-### Hi there 👋 welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AkilaDee?label=Follow%20Me&style=social)](https://github.com/AkilaDess)
+### Hi there 👋 welcome!     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AkilaDee?label=Follow%20Me&style=social)](https://github.com/AkilaDess)
 
 <!--
 
@@ -17,22 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-![](https://visitor-badge.glitch.me/badge?page_id=AkilaDee.AkilaDee)
 
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
-
-
-[website]: https://akilamalshandesilv.wixsite.com/blog
-[twitter]: https://twitter.com/AkilaDee
-[instagram]: https://www.instagram.com/killer__de/
-[linkedin]: https://www.linkedin.com/in/akiladee/
--->
 
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/AkilaDee) 
@@ -48,6 +33,7 @@ Here are some ideas to get you started:
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/3ebcb671-731f-41b0-8145-6da558567d68) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true)
+<!-- ![Akila's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true) -->
+![Akila's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&include_all_commits=true&show_icons=true)
 
 
