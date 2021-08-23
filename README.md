@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akiladee)
 [![Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AkilaDee)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.akiladesilva97@gmail.com)<br/>
-Hacker Rank Badges [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akiladee)
+Hacker Rank Badges<br/> [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akiladee)
 <!-- 
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/elmoallistair)
 [![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/elmoallistair)
