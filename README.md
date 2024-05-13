@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/AkilaDee?label=Follow%20Me&style=social)](https://github.com/AkilaDess)<br/>
 Hacker Rank Badges<br/> [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akiladee) <br/>
 Stack Overflow:
-[![Stackoverflow](https://stackoverflow.com/users/14577057/akila-de-silva)]<br/>
+[![Stackoverflow](https://img.shields.io/badge/--Stackoverflow?label=Stackoverflow&logo=Stackoverflow&style=social)](https://stackoverflow.com/users/14577057/akila-de-silva)<br/>
 Medium:
-[![Medium](https://medium.com/@akiladee)]<br/>
+[![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akiladee)]<br/>
 ## Tech Stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
