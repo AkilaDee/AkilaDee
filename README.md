@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:akila.mde@gmail.com)
 [![Github](https://img.shields.io/github/followers/AkilaDee?label=Follow%20Me&style=social)](https://github.com/AkilaDess)<br/>
 Hacker Rank Badges<br/> [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akiladee)
-
+Stack Overflow:
+[![Stackoverflow](https://stackoverflow.com/users/14577057/akila-de-silva)]
+Medium:
+[![Medium](https://medium.com/@akiladee)]
 ## Tech Stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
