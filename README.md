@@ -29,7 +29,7 @@ Medium<br/>
 [![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akiladee)<br/>
 ## Tech Stack
 <p>
-<img alt="Java" src="https://img.shields.io/badge/Java-%236DB33F.svg?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-%236DB33F.svg?style=flat-square&logo=openjdk&logoColor=black" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Springboot-%23039BE5.svg?style=flat-square&logo=springboot" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
 <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
