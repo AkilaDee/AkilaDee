@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AkilaDee)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:akila.mde@gmail.com)
 [![Github](https://img.shields.io/github/followers/AkilaDee?label=Follow%20Me&style=social)](https://github.com/AkilaDee)<br/>
-Hacker Rank Badges<br/> [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akiladee) <br/>
-Stack Overflow<br/>
-[![Stackoverflow](https://img.shields.io/badge/--Stackoverflow?label=Stackoverflow&logo=Stackoverflow&style=social)](https://stackoverflow.com/users/14577057/akila-de-silva)<br/>
-Medium<br/>
-[![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akiladee)<br/>
+Hacker Rank Badges : [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akiladee) <br/>
+Stack Overflow : [![Stackoverflow](https://img.shields.io/badge/--Stackoverflow?label=Stackoverflow&logo=Stackoverflow&style=social)](https://stackoverflow.com/users/14577057/akila-de-silva)<br/>
+Medium : [![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akiladee)<br/>
 ## Tech Stack
 <p>
 <img alt="Java" src="https://img.shields.io/badge/Java-25A162?style=flat-square&logo=openjdk&logoColor=black" />
