@@ -54,7 +54,7 @@ Medium : [![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medi
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## My GitHub Stats
+
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact&bg_color=000000&text_color=FFFFFF)
