@@ -53,7 +53,8 @@ Medium<br/>
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact&show_icons=true&bg_color=000000&text_color=FFFFFF)
+![Akila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true&count_private=true&hide=contribs,prs&bg_color=000000&text_color=FFFFFF)
 
-![Akila's Stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&show_icons=true&bg_color=000000&text_color=FFFFFF)
-<!-- ![Akila's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&layout=compact&include_all_commits=true&show_icons=true&hide=issues) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact&bg_color=000000&text_color=FFFFFF)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkilaDee&theme=github_dark)
