@@ -29,7 +29,7 @@ Medium<br/>
 [![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akiladee)<br/>
 ## Tech Stack
 <p>
-<img alt="Java" src="https://img.shields.io/badge/Java-%23F80000.svg?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-%236DB33F.svg?style=flat-square&logo=openjdk&logoColor=white" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Springboot-%23039BE5.svg?style=flat-square&logo=springboot" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
 <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
@@ -38,7 +38,6 @@ Medium<br/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <!-- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> -->
-
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
