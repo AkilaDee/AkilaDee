@@ -52,9 +52,7 @@ Medium<br/>
 </p>
 
 ## My GitHub Stats
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact&bg_color=000000&text_color=FFFFFF)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkilaDee&theme=github_dark)
 
-[![Akila's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkilaDee&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/AkilaDee)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaDee&layout=compact&bg_color=000000&text_color=FFFFFF)
